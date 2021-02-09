@@ -2,9 +2,9 @@
 
 Servidor Http que recebe uma requisição GET com parâmetro sendo um número inteiro no intervalo de [-99999,99999] e retorna um JSON com a versão do número por extenso
 
-* [Como usar](#como-usar)
+
 * [Pré-Requisito]
-    - Node.js versão 10.23.
+    - Node.js versão 10.23 ou superior.
 * [Como usar]
    ### 🎲 Rodando o Servidor
 
