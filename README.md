@@ -5,6 +5,7 @@ Servidor Http que recebe uma requisição GET com parâmetro sendo um número in
 
 * [Pré-Requisito]
     - Node.js versão 10.23 ou superior.
+    - Yarn versão 1.19 ou superior
 * [Como usar]
    ### 🎲 Rodando o Servidor
 
