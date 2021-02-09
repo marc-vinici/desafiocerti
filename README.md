@@ -10,7 +10,7 @@ Servidor Http que recebe uma requisição GET com parâmetro sendo um número in
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/marc-vinici/desafiocerti.git
+$ git clone <https://github.com/marc-vinici/desafiocerti.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd desafiocerti
