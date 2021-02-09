@@ -1,6 +1,6 @@
 # desafiocerti
 
-Servidor Http que recebe uma requisição GET com patâmetro sendo um número inteiro no intervalo de [-99999,99999] e retorna um JSON com a versão do número por extenso
+Servidor Http que recebe uma requisição GET com parâmetro sendo um número inteiro no intervalo de [-99999,99999] e retorna um JSON com a versão do número por extenso
 
 * [Como usar](#como-usar)
 * [Pré-Requisito]
