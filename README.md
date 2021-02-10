@@ -22,7 +22,7 @@ $ git checkout master
 # Instale as dependências
 $ yarn install
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação
 $ yarn start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
